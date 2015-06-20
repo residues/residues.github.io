@@ -1,8 +1,6 @@
 ---
 layout: page
-title: about residues
-
-eARTh, humans, animals, machines
+title: about residues - eARTh, humans, animals, machines
 permalink: residues/
 ---
 
