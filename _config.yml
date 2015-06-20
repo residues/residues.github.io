@@ -20,8 +20,8 @@ author:
 paginate:         5
 
 # Custom vars
-icon:             /assets/images/logo.png
-cover:            
+icon:             /assets/images/logo.jpg
+cover:            /assets/images/cover.jpg
 
 social:
   - icon:         twitter
