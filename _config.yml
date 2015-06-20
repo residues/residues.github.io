@@ -51,7 +51,7 @@ menu:
     url:          /roberta
 
   - title:        messmates
-    url:          /massmates
+    url:          /messmates
 
   - title:        thresholds
     url:          /thresholds
