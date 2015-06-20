@@ -20,7 +20,7 @@ paginate:         5
 
 # Custom vars
 icon:             /assets/images/logo.png
-cover:            /assets/images/copertina.jpg
+cover:            /assets/images/cover.jpg
 
 social:
   - icon:         twitter
@@ -35,10 +35,6 @@ social:
     url:          https://nl.linkedin.com/pub/roberta-colavecchio/bb/653/5a7
     desc:         connect to me on linkedin
 
-  - icon:         academia.edu
-    url:          https://unior.academia.edu/RobertaColavecchio
-    desc:         follow me on academia.edu
-
   - icon:         instagram
     url:          https://instagram.com/robertacolavecchio/
     desc:         follow me on instagram
@@ -47,11 +43,11 @@ menu:
   - title:        home
     url:          /
 
-  - title:        about residues
-    url:          /about-residues
+  - title:       residues
+    url:          /residues
 
-  - title:        about roberta
-    url:          /about-roberta
+  - title:        roberta
+    url:          /roberta
 
   - title:        messmates
     url:          /massmates
