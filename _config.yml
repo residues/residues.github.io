@@ -5,9 +5,10 @@ permalink:	/blog/:residues
 
 # Setup
 title:            residues
-tagline:          'blog'
+tagline:          'residues'
 description:      'eARTh, humans, animals, machines'
 url:              http://residues.github.io
+
 baseurl:          
 commentsystem:    google
 disqus:           example
