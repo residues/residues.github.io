@@ -1,50 +1,66 @@
 # Dependencies
 markdown:	kramdown
 # Permalinks
-permalink:	/blog/:title
+permalink:	/blog/:residues
 
 # Setup
-title:            Thinny
+title:            residues
 tagline:          'blog'
-description:      'My personal blog.'
-url:              http://camporez.github.io
+description:      'eARTh, humans, animals, machines'
+url:              http://residues.github.io
 baseurl:          
 commentsystem:    google
 disqus:           example
 
 author:
-  name:           Ian Brunelli
-  url:            https://google.com/+IanCamporezBrunelli
+  name:           roberta colavecchio
+  url:            https://nl.linkedin.com/pub/roberta-colavecchio/bb/653/5a7
 
 paginate:         5
 
 # Custom vars
-icon:             /assets/images/icon.png
-cover:            /assets/images/cover.jpg
+icon:             /assets/images/logo.png
+cover:            /assets/images/copertina.jpg
 
 social:
   - icon:         twitter
-    url:          https://twitter.com/iancamporez
-    desc:         Follow me on twitter
+    url:          https://twitter.com/r_colavecchio
+    desc:         follow me on twitter
 
-  - icon:         github
-    url:          https://github.com/camporez
-    desc:         Fork me on github
+  - icon:         facebook
+    url:          https://www.facebook.com/robertacolavecchio
+    desc:         add me on facebook
 
-  - icon:         googleplus-alt
-    url:          https://google.com/+IanCamporezBrunelli
-    desc:         Add me on google+
+  - icon:         linkedin
+    url:          https://nl.linkedin.com/pub/roberta-colavecchio/bb/653/5a7
+    desc:         connect to me on linkedin
 
-  - icon:         feed
-    url:          http://camporez.github.io/atom.xml
-    desc:         Subscribe to my feed
+  - icon:         academia.edu
+    url:          https://unior.academia.edu/RobertaColavecchio
+    desc:         follow me on academia.edu
 
+  - icon:         instagram
+    url:          https://instagram.com/robertacolavecchio/
+    desc:         follow me on instagram
+    
 menu:
-  - title:        Home
+  - title:        home
     url:          /
 
-  - title:        About
-    url:          /about
+  - title:        about residues
+    url:          /about-residues
+
+  - title:        about roberta
+    url:          /about-roberta
+
+  - title:        messmates
+    url:          /massmates
+
+  - title:        thresholds
+    url:          /thresholds
+
+  - title:        links
+    url:          /links
 
 copyright:
   author:         Camporez
